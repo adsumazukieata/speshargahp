@@ -1,0 +1,38 @@
+{
+  "name": "SpesHargaHP",
+  "short_name": "SpesHargaHP",
+  "start_url": "https://speshargahp.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Sumber terdepan untuk informasi produk teknologi Smartphone terbaik.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-hRxDzzZrqGo/YNqC4_7NkcI/AAAAAAAAAmg/fNPd9mHP9tMwVgUeWPHDEDfwk7wxb27uQCNcBGAsYHQ/s48/speshargahp-ico-48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-2fHfEcKoMj8/YNqC505oCAI/AAAAAAAAAms/qnf4hm6HvygTno7wCry2syEsvXUtDFgZgCNcBGAsYHQ/s72/speshargahp-ico-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eVqf01cFmgc/YNqC6fgT0NI/AAAAAAAAAmw/T4bBLd26YLctCXZGBhXIXwDSca5vUOGsgCNcBGAsYHQ/s96/speshargahp-ico-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GQaM5STOgRQ/YNp-7jceaII/AAAAAAAAAmE/pOoi3apnBq0cGAnEEFF5z9d3C_tjTDy-QCNcBGAsYHQ/s144/speshargahp-ico-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Nmqa0Vrcbi4/YNqC4xv7BCI/AAAAAAAAAmk/tVOfUAS1ynAVdpmQAu0kvGGWkCsnPylkQCNcBGAsYHQ/s168/speshargahp-ico-168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-R2th7lO7Yjo/YNp-7oQCxZI/AAAAAAAAAmM/I3FDUkCY7FowC5aZUaNY2A4i7d1L98sUQCNcBGAsYHQ/s192/speshargahp-ico-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OpyzI75Jm5k/YNqC5CsD9iI/AAAAAAAAAmo/Uuzz7cviA04oenXczqG1tO0L7UbRJ7axwCNcBGAsYHQ/s512/speshargahp-ico-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
